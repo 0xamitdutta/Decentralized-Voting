@@ -11,6 +11,8 @@
 
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
 
+![](https://media.geeksforgeeks.org/wp-content/uploads/20200424190016/2020-04-22-21.png)
+
 ### Prerequisites
 
 What things you need to install the software and how to install them
